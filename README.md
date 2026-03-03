@@ -1,8 +1,6 @@
 Threat-detection
-
 WIP
-
-Technologies
-Rust, Axum
-React, Typescript and Tailwindcss
+Technologies:
+Rust [Axum] and 
+React [Typescript and Tailwindcss]
 
